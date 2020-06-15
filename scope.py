@@ -11,3 +11,12 @@ def cualquier_func(cualquier_arg):
     return cualquier_arg  + 5
 
 func1(un_arg, cualquier_func)
+
+
+""" Suma dos valores a y b
+
+ """
+
+ def suma(a, b):
+     total= a + b
+     return total
